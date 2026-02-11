@@ -45,3 +45,8 @@ What are my blockers?
 Can't login in google ai studio.
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+<img width="1918" height="900" alt="Screenshot 2026-02-11 000240" src="https://github.com/user-attachments/assets/dfdc6733-85e1-4179-bc6a-ffac7b1a23e7" />
+<img width="1358" height="851" alt="Screenshot 2026-02-11 000248" src="https://github.com/user-attachments/assets/53df6867-5631-4b0a-bb04-380c5ca637b6" />
+<img width="1919" height="909" alt="Screenshot 2026-02-11 000317" src="https://github.com/user-attachments/assets/d3a0b803-53c1-415f-b12a-ba22adb5471a" />
+<img width="1354" height="863" alt="Screenshot 2026-02-11 000259" src="https://github.com/user-attachments/assets/635fac58-7254-40df-94be-f190d0eaa7a9" />
+
