@@ -63,8 +63,10 @@ What will I do today?
 Connect the project to API.
 
 What are my blockers?
-
+No enough API
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+<img width="379" height="866" alt="Screenshot 2026-02-11 234506" src="https://github.com/user-attachments/assets/375d916f-8fee-4410-98ed-3dbbd8f4bc2a" />
+<img width="1912" height="939" alt="Screenshot 2026-02-11 234453" src="https://github.com/user-attachments/assets/d1cfe955-14a0-4625-9ca7-b7eb3b922220" />
 
 
