@@ -50,3 +50,21 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 <img width="1919" height="909" alt="Screenshot 2026-02-11 000317" src="https://github.com/user-attachments/assets/d3a0b803-53c1-415f-b12a-ba22adb5471a" />
 <img width="1354" height="863" alt="Screenshot 2026-02-11 000259" src="https://github.com/user-attachments/assets/635fac58-7254-40df-94be-f190d0eaa7a9" />
 
+===================================================================================
+Engineering Journal Day 4
+Artifact for the 2nd week of Training
+Date: 2-12-26
+
+Morning Stand-Up:
+What did I do yesterday?
+I deploy my project to netlify.
+
+What will I do today?
+Connect the project to API.
+
+What are my blockers?
+
+
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+
+
